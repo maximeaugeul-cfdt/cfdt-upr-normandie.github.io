@@ -3,4 +3,4 @@ Page UPR Normandie de la CFDT Santé sociaux<img width="120" height="85" alt="Lo
 
 Bienvenue sur la page hébergeant les documents Cfdt santé sociaux de l'UPR Normandie
 
-Voici le pdf du Guide sur la formation des mandatés ANFH https://github.com/maximeaugeul-cfdt/maximeaugeul-cfdt.github.io/blob/0694940ce41695844352fcfa5f4448adeccacb87/Projet%20Livret%20ANFH%20CFDT%20UPR%20Normandie-4.pdf
+Voici le pdf du Guide sur la formation des mandatés ANFH 
